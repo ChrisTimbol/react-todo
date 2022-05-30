@@ -1,0 +1,21 @@
+.ToDoContainer {
+    background-color: yellow;
+    width: 40vw;
+    height: 40vw;
+    border: 1px solid;
+    border-radius: 12px;
+}
+
+.inputContainer {
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+.inputBox:focus {
+    background-color: cyan;
+}
+
+.todoItem {
+    background-color: cyan;
+}
+
